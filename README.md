@@ -1,4 +1,4 @@
-# This repo contains all the assets used by Forge examples
+# This repo contains all the assets used by Spark examples
 
 
 ### Credits
